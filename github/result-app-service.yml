@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     name: "result-app-pod"
-    app: "result-app"
+    app: "voting-app"
   type: LoadBalancer
   ports:
   - port: 80
